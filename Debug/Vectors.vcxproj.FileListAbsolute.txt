@@ -1,0 +1,3 @@
+C:\Users\Алина\source\repos\Vectors\Vectors\Debug\Vectors.vcxproj.AssemblyReference.cache
+C:\Users\Алина\source\repos\Vectors\Vectors\Debug\Vectors.MyForm.resources
+C:\Users\Алина\source\repos\Vectors\Vectors\Debug\Vectors.vcxproj.GenerateResource.cache
